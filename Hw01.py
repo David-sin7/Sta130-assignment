@@ -169,10 +169,11 @@ tools.display_dataframe_to_user(name="After Data Cleanup", dataframe=after_repor
 
 # Question 8: 
 # 2 df.describe will analyze each row indepently for each non-missing value. df.groupby("col1")["col2"].describe() is using col1 to seperate them into different group and then using the value of col2 to analyze.
-# 3.Compared to Google Search, ChatGPT is better at analyzing and explaining code, as well as providing possible advice and suggestions. Google Search relies on users' or companies' past responses. So i believe chatgpt is better than the google search.
+# 3.Compared to Google Search, ChatGPT excels in analyzing and explaining code, offering a more interactive experience for users. ChatGPT breaks down the code step by step and provides personalized advice and suggestions, helping users understand the logic and potential improvements in their code. In contrast, Google Search primarily relies on displaying results from users' or companies' past responses, such as articles, tutorials. While this can be useful for finding solutions that have already been discussed, it often requires the user to sift through multiple sources, compare answers, and adapt them to their specific needs. In conclusion, i believe chatgpt is better than the google search.
 
 # Question 9:
 # Yeah, really hard to understand in first time
+
 
 # #summary 
 # #Here’s a summary of the key points covered in this session:
